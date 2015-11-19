@@ -26,8 +26,8 @@ Installation and configuration
 
 Install application from PyPI or GitHub::
 
-    $ pip install django-session-attachments  # or
-    $ pip install git://github.com/NetAngels/django-session-attachments.git#egg=django-session-attachments
+    $ pip install django-session-attachments  # (bad idea) or
+    $ pip install pip install git+git://github.com/NetAngels/django-session-attachments.git#egg=django-session-attachments
 
 
 Add a new application to your settings file::
